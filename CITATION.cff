@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the manuscript below."
+title: "Cross-cultural VLM data and analysis code"
+authors:
+  - family-names: "Bae"
+    given-names: "Ji Ho"
+    affiliation: "JRTI, Seoul, Republic of Korea"
+    email: "jihobae@snu.ac.kr"
+  - family-names: "Jung"
+    given-names: "Hwan-wook"
+    affiliation: "College of Fine Arts, Kyung Hee University, Yongin, Republic of Korea"
+    email: "to.hanuk@khu.ac.kr"
+license: MIT
+repository-code: "https://github.com/jbaelaw/cross-cultural-vlm-data"
+keywords:
+  - "vision-language models"
+  - "cultural bias"
+  - "interpretability"
+  - "VLM probing"
+  - "cross-cultural evaluation"
+preferred-citation:
+  type: article
+  title: "Cross-Cultural Score Disparities in Vision-Language Models: Internal Probing Reveals Processing Asymmetry"
+  authors:
+    - family-names: "Bae"
+      given-names: "Ji Ho"
+    - family-names: "Jung"
+      given-names: "Hwan-wook"
+  journal: "Scientific Reports"
+  year: 2026

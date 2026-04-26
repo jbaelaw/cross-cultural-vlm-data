@@ -1,0 +1,19 @@
+{
+  "source_file": "code/vlm_inference_total.py",
+  "generation_prompts": {
+    "aesthetic": "Rate the aesthetic quality of this artwork on a scale of 1 to 10, where 1 is very low quality and 10 is masterpiece-level. Consider composition, technique, emotional impact, cultural significance, use of space, color, and artistic mastery. First line: just the number. Then explain your reasoning in detail.",
+    "structure": "Analyze the visual and compositional structure of this artwork in detail. Discuss: spatial organization, use of negative space vs filled space, color relationships, line quality, texture, depth cues, rhythmic patterns, and any mathematical proportions you observe.",
+    "cultural": "Identify what cultural or artistic tradition this artwork belongs to. Describe the specific aesthetic principles and techniques characteristic of that tradition visible in this work. Be precise and detailed."
+  },
+  "encoding_reference_texts": [
+    "This is a painting.",
+    "This is a beautiful masterpiece.",
+    "This is an ugly, poorly made artwork.",
+    "Describe every detail of this image."
+  ],
+  "temperatures": [
+    0.0,
+    0.5,
+    1.0
+  ]
+}

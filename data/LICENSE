@@ -1,0 +1,14 @@
+Creative Commons CC0 1.0 Universal (Public Domain Dedication)
+
+The aggregated statistics, derived per-image metrics, image-to-culture
+metadata, and inference prompts in this directory and the sibling
+`prompts/` and `figures/` directories are dedicated to the public domain
+under the CC0 1.0 Universal Public Domain Dedication.
+
+Full text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+This dedication applies to the derived data produced by the analysis pipeline
+described in the accompanying manuscript. Underlying source images are not
+redistributed in this package; they are available under the Open Access
+policies of the Metropolitan Museum of Art (CC0), the Cleveland Museum of Art
+(CC0), and the National Museum of Korea (Korea's public-API regulations).
